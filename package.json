@@ -1,7 +1,7 @@
 {
   "name": "subtle-wordcount",
   "main": "./lib/subtle-wordcount",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple Inkdrop plugin to add a wordcount to the .",
   "keywords": [
     "inkdrop",
