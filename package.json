@@ -2,9 +2,13 @@
   "name": "subtle-wordcount",
   "main": "./lib/subtle-wordcount",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/inkdropapp/subtle-wordcount",
+  "description": "A simple Inkdrop plugin to add a wordcount to the .",
+  "keywords": [
+    "inkdrop",
+    "plugin",
+    "wordcount"
+  ],
+  "repository": "https://github.com/bfillmer/subtle-wordcount",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
