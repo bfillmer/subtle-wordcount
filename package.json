@@ -2,7 +2,7 @@
   "name": "subtle-wordcount",
   "main": "./lib/subtle-wordcount",
   "version": "0.3.0",
-  "description": "A simple Inkdrop plugin to add a wordcount to the .",
+  "description": "A simple Inkdrop plugin to add a wordcount to the editor drawer.",
   "keywords": [
     "inkdrop",
     "plugin",
